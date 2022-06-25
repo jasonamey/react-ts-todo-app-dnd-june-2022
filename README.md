@@ -1,4 +1,4 @@
-# Frontend Mentor - Entertainment Web App
+# Frontend Mentor - ToDo App
 
 This is a solution to the [Todo App challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -34,11 +34,11 @@ Your users should be able to:
 
 #### Mobile :
 
-![](https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/front-end-mentor%2Ftodo-app-dnd%2FScreen%20Shot%202022-06-25%20at%202.13.21%20PM.png?alt=media&token=e64d1c9b-0178-4b0d-ac57-e341ff541c36)
+<img src="https://firebasestorage.googleapis.com/v0/b/project-data-ja.appspot.com/o/front-end-mentor%2Ftodo-app-dnd%2FScreen%20Shot%202022-06-25%20at%202.13.21%20PM.png?alt=media&token=e64d1c9b-0178-4b0d-ac57-e341ff541c36"  width="30%">
 
 ### Links
 
-- Solution URL: [Github]()
+- Solution URL: [Github](https://github.com/jasonamey/react-ts-todo-app-dnd-june-2022)
 - Live Site URL: [Hosted by Firebase](https://to-do-app-dnd.web.app/)
 
 ## Built With
