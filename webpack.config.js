@@ -1,4 +1,3 @@
-const webpack = require("webpack");
 const path = require("path");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
@@ -32,7 +31,7 @@ const config = {
     new MiniCssExtractPlugin(),
     new HtmlWebpackPlugin({
       template: "./src/index.html",
-      favicon: "./src/assets/favicon.ico",
+      favicon: "./src/assets/favicon.png",
     }),
   ],
   resolve: {

@@ -4,8 +4,6 @@ import desktopDark from "../images/bg-desktop-dark.jpg";
 import mobileLight from "../images/bg-mobile-light.jpg";
 import mobileDark from "../images/bg-mobile-dark.jpg";
 
-console.log(mobileDark, mobileLight);
-
 export const darkTheme: ITheme = {
   backgroundColor: "#181824",
   appBackgroundColor: "#24273C",
