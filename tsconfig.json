@@ -16,15 +16,3 @@
   "include": ["./src/**/*", "index.d.ts"]
 }
 
-// "outDir": "./dist/",
-// "sourceMap": true,
-// "strict": true,
-// "noImplicitReturns": true,
-// "noImplicitAny": true,
-// "module": "esnext",
-// "moduleResolution": "node",
-// "target": "es5",
-// "allowJs": true,
-// "typeRoots": ["node_modules/@types", "src/types"],
-// "jsx": "react",
-// "allowSyntheticDefaultImports": true

@@ -147,7 +147,9 @@ const App = () => {
           viewFilter={viewFilter}
           setViewFilter={setViewFilter}
         />
+        <div className="drop-note"><p>Drag and drop to reorder list</p></div>
       </AppWrapper>
+      
     </ThemeProvider>
   );
 };
@@ -185,6 +187,13 @@ const AppWrapper = styled.div<{theme: ITheme}>`
   }
   .mobile {
     display: none;
+  }
+  .drop-note {
+    text-align : center;
+    padding : 20px 0;
+    color: ${({theme}) => theme.appDiminishedColor};
+    font-weight : 500;
+    font-size : 12px;
   }
   @media only screen and (max-width: 470px) {
     width: 320px;
